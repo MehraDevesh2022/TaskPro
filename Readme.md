@@ -17,6 +17,21 @@ Welcome to TaskPro, a powerful full stack to-do manager application. With TaskPr
 
 ## Screenshots
 
+  **Home Page**
+
+    <img src="./img/01.png" alt="Home Page" width="1000" height="500">
+
+    **Add Task**
+
+    <img src="./img/02.png" alt="Add Task" width="1000" height="500">
+
+    **Edit Task**
+
+    <img src="./img/03.png" alt="Edit Task" width="1000" height="500">
+
+
+    
+
  
 ##  Deployed Link from cyclic.sh  :
      
