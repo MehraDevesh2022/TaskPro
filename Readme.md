@@ -20,7 +20,7 @@ Welcome to TaskPro, a powerful full stack to-do manager application. With TaskPr
  
 ##  Deployed Link from cyclic.sh  :
      
-     - https://handsome-leotard-jay.cyclic.app/
+ https://handsome-leotard-jay.cyclic.app/
 
 ## Features
 ---
@@ -34,7 +34,7 @@ Welcome to TaskPro, a powerful full stack to-do manager application. With TaskPr
 1. Clone this repository:
 
 ```bash 
-git clone 
+git clone https://github.com/MehraDevesh2022/TaskPro.git
 
 ```
 
